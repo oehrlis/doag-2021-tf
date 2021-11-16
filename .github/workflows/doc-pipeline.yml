@@ -15,12 +15,12 @@ name: Doc Build
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main_notused ]
     paths-ignore:
       - '.github/**'
 
   pull_request:
-    branches: [ main ]
+    branches: [ main_notused ]
     paths-ignore:
       - '.github/**'
 
