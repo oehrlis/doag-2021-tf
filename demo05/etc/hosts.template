@@ -1,0 +1,4 @@
+# custom /etc/host entries
+10.0.1.19 db19.${tvd_domain} db19 db
+10.0.1.21 db21.${tvd_domain} db21
+10.0.1.50 win.${tvd_domain} win
