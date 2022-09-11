@@ -26,7 +26,8 @@ The following files are available:
 - [compartment.tf](./compartment.tf) Compartment resource for the terraform configuration.
 - [main.tf](./main.tf) Main configuration to build the environment. Currently empty
 - [output.tf](./output.tf) Outputs defined for the terraform configuration.
-- [provider.tf](./provider.tf) Provider specific configuration for this terraform configuration.
+- [provider.tf](./provider.tf) Provider specific configuration for this terraform
+  configuration.
 - [variables.tf](./variables.tf) Variable file for the terraform configuration.
 - [vcn.tf](./vcn.tf) VCN resource for the terraform configuration.
 

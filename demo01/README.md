@@ -24,7 +24,8 @@ The following files are available:
 
 - [main.tf](./main.tf) Main configuration to build the environment. Currently empty
 - [outputs.tf](./outputs.tf) Outputs defined for the terraform configuration.
-- [provider.tf](./provider.tf) Provider specific configuration for this terraform configuration.
+- [provider.tf](./provider.tf) Provider specific configuration for this terraform
+  configuration.
 - [variables.tf](./variables.tf) Variable file for the terraform configuration.
 
 ## Demonstration Steps
