@@ -48,7 +48,7 @@ terraform validate
 
 - Run Terraform plan to generates a speculative execution plan and show what
   actions Terraform would take to apply the current configuration. It will ask for
-  the region as for this variable no default values has been defined. 
+  the region as for this variable no default values has been defined.
 
 ```bash
 terraform plan -out demo02.tfplan
